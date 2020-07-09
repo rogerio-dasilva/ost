@@ -1,2 +1,0 @@
-# ost
-OpenShiftTests
